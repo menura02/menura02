@@ -6,7 +6,7 @@ I'm a passionate developer with a strong interest in C programming, Unity game d
 
 🚀 What I Do
 
-🎮 Game Development: Learning Unity to create immersive gaming experiences.
+    Game Development: Learning Unity to create immersive gaming experiences.
 
 🔬 Web Development: Building interactive and dynamic web applications.
 
