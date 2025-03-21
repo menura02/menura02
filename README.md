@@ -1,16 +1,29 @@
-## Hi there 👋
+About Me
 
-<!--
-**menura02/menura02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Eren!
 
-Here are some ideas to get you started:
+I'm a passionate developer with a strong interest in C programming, Unity game development, and web development. I enjoy building innovative projects and constantly exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+
+🎮 Game Development: Learning Unity to create immersive gaming experiences.
+
+🔬 Web Development: Building interactive and dynamic web applications.
+
+📚 Currently Learning
+
+Unity (C#)
+
+Advanced C Programming
+
+Web Development
+
+🎯 Goals
+
+Build and release a game in Unity
+
+Architect and implement a recursive web platform with dynamic content generation
+
+📬 Let's Connect
+
+Email: mail.erenerturk@gmail.com
