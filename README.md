@@ -49,7 +49,6 @@ My own little corner of the internet — a bilingual (EN/TR) static site with cu
 
 ## 📫 Let's Connect
 
-*(Website link will be uptaded!)*
 - 🌐 **Website:** [https://menura02.github.io/website_erenerturk](https://menura02.github.io/website_erenerturk)
 - 💼 **LinkedIn:** [linkedin.com/in/erenertürk](https://www.linkedin.com/in/eren-ert%C3%BCrk-23158521b/)
 - 📧 **Email:** [mail.erenerturk@gmail.com](mailto:mail.erenerturk@gmail.com)
