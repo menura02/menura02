@@ -8,9 +8,9 @@
 
 ## 📫 Let's Connect
 
-- 🌐 **Website:** [https://menura02.github.io/website_erenerturk](https://menura02.github.io/website_erenerturk)
-- 💼 **LinkedIn:** [linkedin.com/in/erenertürk](https://www.linkedin.com/in/eren-ert%C3%BCrk-23158521b/)
-- 📧 **Email:** [mail.erenerturk@gmail.com](mailto:mail.erenerturk@gmail.com)
+- 🌐 **Website:** [website](https://menura02.github.io/website_erenerturk)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/eren-ert%C3%BCrk-23158521b/)
+- 📧 **Email:** [mail](mailto:mail.erenerturk@gmail.com)
 
 <br/>
 <div align="center">
